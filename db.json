@@ -1,0 +1,32 @@
+{
+    "posts":[
+        {
+        "name": "MohammedIsmail",
+        "password": "admin@123",
+        "age": 20,
+        "dob": "08-09-2000",
+        "firstName": "Mohammed",
+        "lastName": "Ismail",
+        "more": {
+            "address_line1": "NGO",
+            "address_line2": "Karaikudi",
+            "address_line3": "630003",
+            "phone": "9524277428"
+        }
+        },
+        {
+            "name": "User1",
+            "password": "user@123",
+            "age": 22,
+            "dob": "20-10-2020",
+            "firstName": "Admin",
+            "lastName": "User",
+            "more": {
+                "address_line1": "XYZ Street",
+                "address_line2": "XYZ",
+                "address_line3": "6*******",
+                "phone": "78698798798"
+            }
+        }
+    ]
+}
